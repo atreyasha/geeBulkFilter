@@ -26,7 +26,7 @@ For simplicity, first navigate to a desired directory and clone this git reposit
 
 4. Select all the files corresponding to the generic file path `/gee_input/DL_PL_KN_Dissolve_UTM43N` with the endings `.cpg, .dbf, .prj, .sbn, .sbx, .shp, .shp.xml, .shx `. Let this asset be named `DL_PL_KN_Dissolve_UTM43N`. Import this asset into the code editor with the variable name `table2`.
 
-5. We now have the important variables imported. Now, copy and paste the code from the `geeBulkFilter.js` (https://github.com/AtreyaSh/geeBulkFilter/blob/master/geeBulkFilter.js) file into the GEE code editor. With this, we are good to go. 
+5. We now have the important variables imported. Now, copy and paste the code from the [geeBulkFilter.js](/geeBulkFilter.js) file into the GEE code editor. With this, we are good to go. 
 
 6. Run the script and the corresponding data will be sent to your Google Drive for downloading!
 
