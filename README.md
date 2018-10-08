@@ -48,4 +48,4 @@ This script results in 31 Landsat 8 SR images from 2013-2017 being downloaded in
 
 ## 2. Refine resulting remote sensing data
 
-Now that we have downloaded the resulting remote sensing data from GEE, we would need to review and refine this data. Further information on this process can be found in the `geeDataClean.md` markdown file here: [geeDataClean.md](/geeDataClean.md)
+Now that we have downloaded the resulting remote sensing data from GEE, we would need to review and refine this data. Further information on this process can be found here: [geeDataClean.md](/geeDataClean.md)
