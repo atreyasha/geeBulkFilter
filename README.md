@@ -1,4 +1,4 @@
-# geeBulkFilter
+# gee-landsat-filter
 
 This project summarizes code in the Google Earth Engine API in order to bulk filter and export remote sensing data. These methods have been used in the following paper/thesis (https://github.com/atreyasha/remoteSensingThesis):
 
